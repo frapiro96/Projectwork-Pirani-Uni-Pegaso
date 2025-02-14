@@ -95,7 +95,7 @@ body {
 
 /* Footer */
 footer {
-    height: 50px;
+    min-height: 50px;
     background-color: #f8f9fa;
     text-align: center;
     line-height: 50px;
